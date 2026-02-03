@@ -1,8 +1,8 @@
 # Python Projects
 
-This folder contains **small Python projects** created either for my job or to demonstrate practical programming skills relevant to technical and scientific roles.
+This folder contains **small Python projects** created either for my job or to practice with specific libraries and modules in Python.
 
-> Note for recruiters: These projects showcase my ability to write **clean, well-documented, and reproducible code**, as well as my skill in breaking down problems into clear, maintainable scripts — useful for roles requiring technical fluency alongside strong documentation skills.
+> Note for recruiters: These projects showcase my ability to understand and write **clean, well-documented, and reproducible code**, as well as my skill in breaking down problems into clear, maintainable scripts — useful for roles requiring technical fluency alongside strong documentation skills.
 
 Each project includes its own README with:
 
