@@ -14,4 +14,4 @@ Each project includes its own README with:
 
 | Project | Description |
 |---------|-------------|
-| `ACS-oly-fit-main` | Python scripts for processing experimental Absoprtion Cross Sections (ACS) at various temperatures and pressure and generating new ACS at a selected T and P. |
+| `ACS-poly-fit-main` | Python scripts for processing experimental Absoprtion Cross Sections (ACS) at various temperatures and pressure and generating new ACS at a selected T and P. |
