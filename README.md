@@ -3,14 +3,13 @@
 ## Overview
 This folder contains **small Python projects** created either for my job or to practice with specific libraries and modules in Python.
 
-> Note for recruiters: These projects showcase my ability to understand and write **clean, well-documented, and reproducible code**, as well as my skill in breaking down problems into clear, maintainable scripts — useful for roles requiring technical fluency alongside strong documentation skills.
+> Note for recruiters: > Note for recruiters: These projects are designed to demonstrate practical Python usage, readable code, and clear documentation, including consistent use of NumPy-style docstrings.
 
 Each project includes its own README with:
 
 - Project description
 - How-to-use instructions
 - Usage examples
->NOTE: the scripts include consistent use of NumPy-style docstrings for functions and modules
 
 ## Projects list
 
