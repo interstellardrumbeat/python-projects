@@ -15,7 +15,13 @@ where T is the temperature in Celsius and P the pressure in mbar. The logarithmi
 The degree in T and P can be decided by the user based on the amount of data available. 
 The results are then stored in a .npz file that can be used to fit new ACSs at T and P not available experimentally.
 Such fit can be done using the script and info file in the folder "New ACS fit".
-  
+
+## Installation
+
+Clone the repository using:
+>git clone https://github.com/interstellardrumbeat/python-projects/tree/main/ACS-poly-fit-main/
+This will clone all the scripts and input files (including some sample spectra).
+
 &nbsp;  
 /)  /)  ~   ┏━━━━━━━━━━━┓  
 ( •-• )  ~      HOW TO USE  
