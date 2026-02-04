@@ -24,12 +24,10 @@ Clone the repository using:
 This will clone all the scripts and input files (including some sample spectra).
 
 &nbsp; 
- ┏━━━━━━━━━━━┓  
-## HOW TO USE 
- ┗━━━━━━━━━━━┛   
-### /)  /)  ~  
-### ( •-• )  ~       
-### /づづ ~   
+   
+** /)  /)  ~  ┏━━━━━━━━━━━┓ **
+**( •-• )  ~    HOW TO USE **
+** /づづ ~    ┗━━━━━━━━━━━┛   **
 
 **This section describes the required inputs and how to structure them.**
 
