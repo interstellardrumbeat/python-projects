@@ -21,9 +21,11 @@ Such fit can be done using the script and info file in the folder "New ACS fit".
 ( •-• )  ~    HOW TO USE  
 /づづ ~  ┗━━━━━━━━━━━┛    
 
+**This section describes the required inputs and how to structure them.**
+
 The "acs_poly_fit" script needs two inputs:   
 ### 1) an info file:  
-its path and name must be given at the end of the script, in the "main" call (info_path and info_filename);
+its path and filename must be provided at the end of the script, in the "main" call (info_path and info_filename);
 the info file MUST have a certain structure.  
 See section [Info file](#info-file) below for details. A sample is provided in this repository.
 
@@ -52,14 +54,14 @@ Each block can be repeated for every spectrum that the user wants to feed into t
 * **ACS file:** name of the input spectrum  
 * **noise:** experimental noise of the spectrum (eg. 1.0)  
 * **additional weight:** additional weight to be included in the calculation for this spectrum  
-    1: no additional weight (multiply by 1)  
+    - 1: no additional weight (multiply by 1)  
 * **P_tot:** Pressure in mbar (eg. 66.9325)  
 * **T:** temperature in Kelvin (eg. 312.62058)  
-* **Baseline polynomial degree:** degree of the polynomial to be used in the baseline correction (eg. 1)  
-    -1: no baseline fitted   
-* **ACS scaling:** activate the fit of the scaling, often necessary if not all spectra are measured in the same lab   
-    any number: no scaling fit, fixed at given value  
-    1: scaling fit  
+* **Baseline polynomial degree:** degree of the polynomial to be used in the baseline correction (eg. 1, 2, ...)  
+    - -1: no baseline fitted   
+* **ACS scaling:** controls whether a multiplicative scaling factor is fitted , often necessary if not all spectra are measured in the same lab
+    - 1: fit a scaling factor
+    - any value: scaling is fixed to the given number (no fit)   
 
 ## Roadmap
 - [ ] Faster algorithm - curve_fit is very slow, maybe switch to scikitlearn or numba  
