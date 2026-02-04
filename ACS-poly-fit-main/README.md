@@ -10,7 +10,7 @@ at various temperature and pressures and fits them to a polynomial in two-dimens
 
 $$f(T, p) = \displaystyle\sum_{i=0}^{T \ degree} \displaystyle\sum_{j=0}^{p \ degree} a(i,j) \ \ T^i \ \ \log(p+5)^j$$
 
-where T is the temperature in Celsius and P the pressure in mbar. The logarithmic pressure term log(p+5) is used to stabilize the fit at low pressures (log base: natural).
+where T is the temperature in Kelvin and P the pressure in mbar. The logarithmic pressure term log(p+5) is used to stabilize the fit at low pressures (log base: natural).
 
 The degree in T and P can be decided by the user based on the amount of data available. 
 The results are then stored in a .npz file that can be used to fit new ACSs at T and P not available experimentally.
