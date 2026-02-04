@@ -18,7 +18,7 @@ Such fit can be done using the script and info file in the folder "New ACS fit".
   
 &nbsp;  
 /)  /)  ~   ┏━━━━━━━━━━━┓  
-( •-• )  ~    HOW TO USE  
+( •-• )  ~      HOW TO USE  
 /づづ ~  ┗━━━━━━━━━━━┛    
 
 **This section describes the required inputs and how to structure them.**
