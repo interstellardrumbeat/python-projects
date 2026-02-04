@@ -10,6 +10,7 @@ Each project includes its own README with:
 - Project description
 - How-to-use instructions
 - Usage examples
+>NOTE: the scripts include consistent use of NumPy-style docstrings for functions and modules
 
 ## Projects list
 
