@@ -25,9 +25,9 @@ This will clone all the scripts and input files (including some sample spectra).
 
 ## How to use
 
-**/)  /)  ~**  
-**( •-• )  ~**  
-**/づづ ~**    
+/)  /)  ~   
+( •-• )  ~   
+/づづ ~     
 
 **This section describes the required inputs and how to structure them.**
 
