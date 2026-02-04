@@ -4,7 +4,7 @@
 ACS: Absorption Cross Section  
 Sigma: wavenumber ($$cm^{-1}$$)
 
-## Description:
+## Overview:
 The main software (acs_poly_fit) takes in spectra in the form "wavenumber (cm-1) vs scaled Absorption Cross Section (ACS)"
 at various temperature and pressures and fits them to a polynomial in two-dimensions, solving for coefficients "a" of:
 
@@ -29,7 +29,7 @@ its path and filename must be provided at the end of the script, in the "main" c
 the info file MUST have a certain structure.  
 See section [Info file](#info-file) below for details. A sample is provided in this repository.
 
-### 2) Spectra:    
+### 2) spectra:    
 the spectra must be made of only two columns, of only numbers (no header, title, column names, etc...); 
 the first column must contain the wavenumber/sigma values, the second the ACSs;  
 IMPORTANT: to avoid near-zero values and given the small magnitude of ACSs,
