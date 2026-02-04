@@ -82,7 +82,7 @@ Each block can be repeated for every spectrum that the user wants to feed into t
 ## Contributing
 Open to suggestions to make it _better, faster, stronger_ (cit.).
 
-### Authors and acknowledgment
+## Authors and acknowledgment
 The use of comments and docstring (tries) to follow this conventions:  
 [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)  
 [PEP 257 – Docstring Conventions](https://peps.python.org/pep-0257/)
