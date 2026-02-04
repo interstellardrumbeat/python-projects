@@ -16,7 +16,7 @@ The degree in T and P can be decided by the user based on the amount of data ava
 The results are then stored in a .npz file that can be used to fit new ACSs at T and P not available experimentally.
 Such fit can be done using the script and info file in the folder "New ACS fit".
   
-  
+&nbsp;  
 /)  /)  ~   ┏━━━━━━━━━━━┓  
 ( •-• )  ~    HOW TO USE  
 /づづ ~  ┗━━━━━━━━━━━┛    
