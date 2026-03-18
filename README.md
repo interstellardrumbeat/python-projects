@@ -15,5 +15,5 @@ Each project includes its own README with:
 
 | Project | Description |
 |---------|-------------|
-| `ACS-poly-fit-main` | Python scripts for processing experimental Absoprtion Cross Sections (ACS) at various temperatures and pressure and generating new ACS at a selected T and P. |
+| `ACS-poly-fit-main` | Python scripts (work related) for processing experimental Absoprtion Cross Sections (ACS) at various temperatures and pressure and generating new ACS at a selected T and P. |
 | `lyrics-scraper` | A basic script to practice with web scraping and to use eventually for other projects I have in mind (sentiment analysis and random song fetcher). |
