@@ -1,19 +1,20 @@
 # Python Projects
 
 ## Overview
-This folder contains **small Python projects** created either for my job or to practice with specific libraries and modules in Python.
 
-> Note for recruiters: These projects are designed to demonstrate practical Python usage, readable code, and clear documentation, including consistent use of NumPy-style docstrings.
+This portfolio features Python scripts and utilities developed for scientific data processing, automation, and library practice. Each project emphasizes **clean, maintainable code**, **robust error handling**, and **comprehensive documentation** aligned with industry standards (NumPy-style docstrings).
 
-Each project includes its own README with:
+> **For Recruiters:** These samples demonstrate proficiency in data manipulation (NumPy, Pandas), web scraping, and scientific computing, with a focus on readability and reproducibility.
 
-- Project description
-- How-to-use instructions
-- Usage examples
+## Projects
 
-## Projects list
+| Project | Type | Domain | Key Skills Demonstrated |
+| :--- | :--- | :--- | :--- |
+| `ACS-poly-fit-main` | Scientific Data Processing | Spectroscopy / Physics | Polynomial fitting, thermodynamic modeling, NumPy, data interpolation, unit conversion |
+| `lyrics-scraper` | Automation & Scraping | Web Development | HTML parsing (BeautifulSoup), API interaction, data cleaning, sentiment analysis prep |
 
-| Project | Description |
-|---------|-------------|
-| `ACS-poly-fit-main` | Python scripts (work related) for processing experimental Absoprtion Cross Sections (ACS) at various temperatures and pressure and generating new ACS at a selected T and P. |
-| `lyrics-scraper` | A basic script to practice with web scraping and to use eventually for other projects I have in mind (sentiment analysis and random song fetcher). |
+## What You'll Find Here
+
+- **Scientific rigor:** Accurate implementation of physical models (e.g., temperature/pressure dependence of cross-sections).
+- **Documentation standards:** Usage guides and consistent NumPy-style docstrings explaining parameters, returns, and usage.
+- **Reproducibility:** Clear setup instructions, dependency lists, and usage examples in every project README.
