@@ -2,7 +2,7 @@
 
 ## Overview
 
-This portfolio features Python scripts and utilities developed for scientific data processing, automation, and library practice. Each project emphasizes **clean, maintainable code**, **robust error handling**, and **comprehensive documentation** aligned with industry standards (NumPy-style docstrings).
+This repository features Python scripts and utilities developed for scientific data processing, automation, and library practice. Each project emphasizes **clean, maintainable code**, **robust error handling**, and **comprehensive documentation** aligned with industry standards (NumPy-style docstrings).
 
 > **For Recruiters:** These samples demonstrate proficiency in data manipulation (NumPy, Pandas), web scraping, and scientific computing, with a focus on readability and reproducibility.
 
